@@ -1,3 +1,4 @@
 Archivo index
 carrito ruedas = 4
 carrito puertas = 5
+color = rojo
